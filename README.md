@@ -10,5 +10,5 @@ cd nome-projeto
 // Instale as dependências:
 npm install
 
-// Execute
+// Execute:
 npm run dev
