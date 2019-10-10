@@ -1,4 +1,4 @@
-# gerencia-usuarios-client
+# Gerenciador de Usuários
 
 # Baixe o projeto:
 git clone https://github.com/mairanymachado/gerencia-usuarios-client.git
