@@ -13,4 +13,4 @@ git clone https://github.com/mairanymachado/gerencia-usuarios-client.git
 // Execute:
   - npm run dev
 
-Obs.: Abra o navegador e acesse manualmente http://localhost:8080.
+* Obs.: Abra o navegador e acesse manualmente http://localhost:8080.
