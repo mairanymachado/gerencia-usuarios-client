@@ -4,8 +4,8 @@
 git clone https://github.com/mairanymachado/gerencia-usuarios-client.git
 
 # Entre no projeto, instale as dependências e execute-o:
-// Acesse o projeto: \n
-cd nome-projeto
+** Acesse o projeto: 
+* cd nome-projeto
 
 // Instale as dependências:
    * npm install
